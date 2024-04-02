@@ -21,16 +21,16 @@ https://github.com/abbyymaureen/GoWeb.git
 3. Download Dependencies
 
 Make sure to download Gin. This is the GUI framework used to create
-and run our program. Open the terminal within the IDE and enter the following
-line of code:
+and run our program. Open the saved GitHub source code within the IDE,
+navigate to the terminal within the IDE, and enter the following line of code:
 
 ```
 go get -u github.com/gin-gonic/gin
 ```
 
 4. Open and Run
-   Locate and open the GitHub repository on your computer and run it through the IDE
-   by clicking the 'play' arrow button. Enjoy our application!
+Run our code through the IDE by clicking the 'play' arrow button. 
+Enjoy our application!
 
 ## Running Through the Terminal
 1. Download Go for your computer
