@@ -1,5 +1,20 @@
 package main
 
+/**
+@author abbybrown
+@filename main.go
+@date 04/01/24
+
+	This Go program renders a web page that allows the user to play a 'choose your own adventure' game.
+	This program utilizes multiple mappings in order to route to the proper html page.
+
+References:
+ChatGPT (so much debugging)
+https://gin-gonic.com/docs/examples/html-rendering/ (framework docs)
+https://getcssscan.com/css-buttons-examples (styling the button easier)
+https://www.canva.com/ (making images)
+*/
+
 import (
 	"github.com/gin-gonic/gin"
 	"net/http"
